@@ -1,12 +1,12 @@
 .header{
-    background-image: url("images\developer.png"), url("images/header_bg.png");
+    background-image: url("images\developer.png"), url("images/header_bg.png") ;
     background-repeat: no-repeat;
-    background-position: top left,bottom right;}
+    background-position: top left, bottom right ; }
 .open-sans-normal {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
-  font-variation-settings : "wdth" 100;}
+  font-family: "Open Sans", sans-serif ;
+  font-optical-sizing: auto ;
+  font-style: normal ;
+  font-variation-settings : "wdth" 100 ; }
   /* shared style*/
 .secondary-bg {
     background-color: #FFF8F3;
